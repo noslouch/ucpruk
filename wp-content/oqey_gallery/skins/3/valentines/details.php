@@ -1,0 +1,6 @@
+[Name: Valentine's Day Skin]
+[Version: 0.1]
+[Author: oqeysites.com]
+[Description: Valentine's Day Free Skin]
+[Commercial: no]
+[Skinid: 0003]

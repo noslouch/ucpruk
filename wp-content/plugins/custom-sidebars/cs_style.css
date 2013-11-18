@@ -1,0 +1,57 @@
+#defaultsidebarspage p.submit{
+	padding : 0 0 10px;
+	clear: both;
+}
+
+#poststuff.defaultscontainer h2{
+	border-bottom:0;
+	margin-bottom:5px;
+}
+
+#defaultsforposts, #defaultsforpages{
+padding:0 10px;
+background:#fcfcfc;
+overflow: hidden;
+}
+
+.defaultsSelector{
+margin-bottom:30px;
+}
+
+.cscolright{
+	clear:right;
+	float:right;
+	margin:0;
+	overflow:hidden;
+	padding:0;
+	width:49%;
+}
+
+.cscolleft{
+	margin:0;
+	overflow:hidden;
+	padding:0;
+	width:49%;
+}
+
+#poststuff h3.csh3title{
+	clear:left;
+	font-size:1.3em;
+	margin-bottom:15px;
+	margin-top:20px;
+	padding:0 0 3px;
+	background:none;
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	font-style: italic;
+	font-weight: normal;
+	margin-top:10px;
+	border-bottom:1px solid #ccc;
+}
+
+#customsidebarspage #col-left{
+width: 39%;
+}
+
+#customsidebarspage #col-right{
+width: 59%;
+}

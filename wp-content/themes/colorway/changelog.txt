@@ -1,0 +1,29 @@
+== Changelog ==
+
+= Theme Name: Colorway Lite =
+
+= Version: 1.7.3 =
+
+* More social icons added.
+
+= Version: 1.7.2 =
+
+* Functions file updated.
+
+* Attachment file added.
+
+* Few bugs fixed in attachment file.
+
+= Version: 1.7 =
+
+* Custom css option panel resolved.
+
+* Favicon option panel resolved.
+
+* Analytics option panel resolved.
+
+* Searching resolved.
+
+* Cufon heading to display resolved.
+
+

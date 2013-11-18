@@ -1,0 +1,74 @@
+/* DO NOT EDIT - CHANGES MADE TO THIS FILE WILL BE LOST ON PLUGIN UPDATE */
+/* ADD STYLE OVERRIDES TO YOUR THEME'S STYLE.CSS */
+
+#aec-menu{float:right;padding:10px 0}
+#aec-calendar .aec-repeating span.fc-event-title{padding-right:18px;padding-left:0;background-position:96% 50%}
+.aec-eventlist .aec-repeating span.fc-event-time{padding-right:16px;padding-left:0;background-position:0 4px}
+
+#aec-calendar table{float:none}
+
+#aec-filter{float:left}
+#aec-filter li{float:right;padding:0 4px 0 0 !important}
+#aec-filter li:first-child{padding:3px 0 3px 4px !important}
+#aec-modal-container{text-align:right}
+#aec-modal-container .close{left:0}
+#aec-modal-container .close a{float:left;padding:6px 12px 0}
+#aec-modal .category{float:left}
+
+#aec-modal .link{left:10px;right:auto}
+#aec-modal .maplink{float:left}
+.aec-form li{float:right}
+.aec-form label{float:right;padding:5px 0 3px 5px}
+.aec-form label.box{padding:0 5px 0 0}
+.aec-form .select option{padding-left:10px}
+.aec-form select{float:right}
+.aec-form textarea{float:right}
+.aec-form input[type=radio]{float:right}
+.aec-form input[type=checkbox]{float:right}
+.aec-form li.buttons{text-align:left}
+.aec-form .vvv input{float:right}
+.aec-form .vvv select{float:right}
+.aec-form .vvv textarea{float:right}
+.aec-form .hvv li{float:right;margin-left:10px}
+.aec-form .hvv label{float:none;padding:1px 3px 0 0}
+.aec-form .hvv label.box{float:right;}
+.aec-form .hvv input{float:right}
+.aec-form .hii li{float:right;margin-left:10px}
+.aec-form .hii label{margin-left:0;text-align:right}
+.aec-form .hhh li{float:right;margin-left:10px}
+.aec-form .hhh label{float:right;padding-right:5px}
+.aec-form .hhh input{float:right}
+.aec-form .hhh select{float:right}
+.aec-form .hhh textarea{float:right}
+.aec-form .vii{float:right}
+.aec-form .vii li{float:right}
+.aec-form .vhh{float:right}
+.aec-form .vhh li{float:right}
+.aec-form .vhh label{float:right}
+.aec-form .vhh input{float:right}
+.aec-form .vhh select{float:right}
+.aec-form .vhh textarea{float:right}
+.aec-form label.v{text-align:right}
+.aec-form label.h{float:right}
+.aec-form .multiselect{float:right}
+.aec-form .multiselect .vhh input{float:right}
+.aec-form .multiselect .vhh label{margin-right:20px}
+.aec-form .leftnote{float:right;padding:3px 5px 0}
+.tar label{text-align:left}
+.fl{float:right}
+.fr{float:left}
+.mr20{margin-left:20px}
+.ml20{margin-right:20px}
+.offset1{margin-right:130px}
+.offset2{margin-right:105px}
+
+div.jGrowl.center{right:25%}
+div.center div.jGrowl-notification,div.center div.jGrowl-closer{margin-right:auto;margin-left:auto}
+div.jGrowl div.jGrowl-notification,div.jGrowl div.jGrowl-closer{text-align:right}
+div.jGrowl div.jGrowl-notification,div.jGrowl{text-align:right}
+div.jGrowl div.jGrowl-notification div.jGrowl-close{float:left}
+
+.fc-header{clear:both}
+.miniColors-colors{right:5px}
+.miniColors-hues{right:160px}
+.miniColors-huePicker{right:-3px}

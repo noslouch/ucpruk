@@ -1,0 +1,15 @@
+[22-Feb-2013 02:53:01] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/footer.php on line 10
+[24-Feb-2013 03:05:28] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/header.php on line 10
+[27-Feb-2013 06:08:22] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/header.php on line 10
+[28-Feb-2013 01:49:48] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/sidebar.php on line 10
+[01-Mar-2013 00:08:01] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/comments-popup.php on line 10
+[01-Mar-2013 05:26:37] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/header.php on line 10
+[01-Mar-2013 20:08:25] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/footer.php on line 10
+[01-Mar-2013 23:04:17] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/header.php on line 10
+[04-Mar-2013 00:26:53] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/comments.php on line 10
+[04-Mar-2013 01:54:12] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/sidebar.php on line 10
+[04-Mar-2013 06:42:08] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/comments-popup.php on line 10
+[05-Mar-2013 21:11:22] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/footer.php on line 10
+[20-Mar-2013 13:34:04] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/comments-popup.php on line 10
+[21-Mar-2013 23:14:54] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/sidebar.php on line 10
+[23-Mar-2013 13:46:16] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home3/ucplaorg/public_html/ucpwfh/mu/wp-includes/theme-compat/sidebar.php on line 10

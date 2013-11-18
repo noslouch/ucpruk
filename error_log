@@ -1,0 +1,40 @@
+[22-May-2012 17:29:52] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 6
+[22-May-2012 17:30:54] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:30:59] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:31:08] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:31:10] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:31:21] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:31:32] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[22-May-2012 17:31:57] PHP Parse error:  syntax error, unexpected T_IF in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/sidebar.php on line 5
+[14-Aug-2012 16:51:46] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 601
+[14-Aug-2012 16:51:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 601
+[14-Aug-2012 16:51:57] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 601
+[14-Aug-2012 16:52:06] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 601
+[14-Aug-2012 16:52:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 601
+[14-Aug-2012 22:55:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:50] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:51] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:52] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:54] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 16:55:54] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:55] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 22:55:56] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[14-Aug-2012 16:56:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/oqey-gallery/gallcore.php on line 626
+[21-Aug-2012 22:37:54] PHP Parse error:  syntax error, unexpected ';' in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/loop.php on line 29
+[23-Aug-2012 21:37:11] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 185
+[23-Aug-2012 21:38:37] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 187
+[23-Aug-2012 21:39:25] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 187
+[23-Aug-2012 21:40:27] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 155
+[23-Aug-2012 21:40:30] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 155
+[23-Aug-2012 21:41:18] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 152
+[23-Aug-2012 21:42:36] PHP Parse error:  syntax error, unexpected $end in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/themes/colorway/front-page.php on line 151
+[10-Oct-2012 16:12:13] PHP Warning:  require_once(classes/utility.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/utility.class.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:18] PHP Warning:  require_once(classes/utility.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/utility.class.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:20] PHP Warning:  require_once(classes/utility.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/utility.class.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:26] PHP Warning:  require_once(classes/utility.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[10-Oct-2012 16:12:26] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/utility.class.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/ucplaorg/public_html/ucpwfh/mu/wp-content/plugins/lightbox-plus/lightboxplus.php on line 51
+[18-Nov-2013 10:41:04] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home5/ucplaorg/public_html-old/ucpwfh/mu/wp-config.php on line 3
