@@ -29,7 +29,7 @@
 	/*conteudo que ora para dentro do <head>*/
 	function js_NivoSlider(){
 	?>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+		<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>-->
 		<script type="text/javascript" src="<?php echo get_option('siteurl') . '/wp-content/plugins/nivo-slider-for-wordpress/js/jquery.nivo.slider.pack.js';?>"></script>
 		<script type="text/javascript">
 		var $nv4wp = jQuery.noConflict();

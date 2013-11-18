@@ -32,7 +32,7 @@ add_action('post_thumbnail_html', 'your_thumbnail_caption', null, 5);
     </div>
     <div class="sponsorwheelchair short">
     	<!-- <p>Give someone the freedom of mobility by donating a wheelchair today!</p> -->
-  		<a href="http://http://www.ucpwfh.org/index-paypal.php"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"></a>
+  		<a href="http://www.ucpwfh.org/index-paypal.php"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"></a>
   	</div>
     <div class="clear">
    </div>

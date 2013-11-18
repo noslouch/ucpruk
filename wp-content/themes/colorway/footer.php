@@ -43,4 +43,14 @@
 <!--Start Footer container-->
 <!--End footer container-->
 <?php wp_footer(); ?>
+
+<script>
+  jQuery(function($) {    
+
+    $('.social_logo a').tipsy();
+    $('a.zoombox').zoombox();
+
+});
+</script>
+
 </body></html>

@@ -106,23 +106,6 @@
 
 <![endif]-->
 
-<script type="text/javascript">
-
-  $(function() {    
-
-    $('.social_logo a').tipsy();
-
-  }); 
-
-  
-
-  $(function() { 
-
-    $('a.zoombox').zoombox();
-
-});
-
-</script>
 
 <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
 
@@ -136,7 +119,7 @@ if(is_home() || is_front_page())
 
 <style type="text/css">
 
-body { background-image:url(http://www.ucpwfh.org/ruk/wp-content/uploads/2012/01/home-background1.jpg);background-color:#084180; }
+body { background-image:url(http://ucpruk.dev/wp-content/uploads/2012/01/home-background1.jpg);background-color:#084180; }
 
 </style>
 
@@ -144,7 +127,7 @@ body { background-image:url(http://www.ucpwfh.org/ruk/wp-content/uploads/2012/01
 
 <style type="text/css">
 
-body { background-image:url(http://www.ucpwfh.org/ruk/wp-content/uploads/2012/01/page-background.jpg);background-color:#eae9e9; }
+body { background-image:url(http://ucpruk.dev/wp-content/uploads/2012/01/page-background.jpg);background-color:#eae9e9; }
 
 </style>
 
@@ -166,7 +149,7 @@ body { background-image:url(http://www.ucpwfh.org/ruk/wp-content/uploads/2012/01
 
   <div class="logo"> <a href="<?php echo home_url(); ?>"><img src="<?php if ( inkthemes_get_option('colorway_logo') !='' ) {?><?php echo inkthemes_get_option('colorway_logo'); ?><?php } else {?><?php echo get_template_directory_uri(); ?>/images/logo.png<?php }?>" alt="<?php bloginfo('name'); ?>" /></a> </div>
 
-  <div id="naviuser"><a href="http://www.ucpwfh.org/mu/rukeng" class="usaflag"><img src="<?php echo get_template_directory_uri(); ?>/images/usaflag.gif" /></a><a href="http://www.ucpwfh.org/mu/ruk" class="indoflag"><img src="<?php echo get_template_directory_uri(); ?>/images/indoflag.gif" /></a><a href="http://www.ucpwfh.org/mu/rukeng/contact-us/" class="users" style="padding-left:15px;border-left:2px solid #fff;">Contact Us</a><a href="http://www.ucpwfh.org/mu/rukeng/log-in/" class="users">Log In</a></div>
+  <div id="naviuser"><a href="http://ucpruk.dev/eng" class="usaflag"><img src="<?php echo get_template_directory_uri(); ?>/images/usaflag.gif" /></a><a href="http://ucpruk.dev/ruk" class="indoflag"><img src="<?php echo get_template_directory_uri(); ?>/images/indoflag.gif" /></a><a href="http://ucpruk.dev/eng/contact-us/" class="users" style="padding-left:15px;border-left:2px solid #fff;">Contact Us</a><a href="http://ucpruk.dev/eng/log-in/" class="users">Log In</a></div>
 
   <!--Start MenuBar-->
 

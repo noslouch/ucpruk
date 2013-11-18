@@ -1,3 +1,3 @@
-$(document).ready(function(){
-	$("#contactForm").validate();
+jQuery(document).ready(function($){
+    $("#contactForm").validate();
 });
