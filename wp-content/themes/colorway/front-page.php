@@ -43,7 +43,7 @@
     <!-- end nivoslider -->
 
   </div>
-	<a href="http://ucpruk.dev/rukeng/how-to-give/">
+	<a href="http://205.186.144.247/ucpruk.org/html//how-to-give/">
   <div class="sponsorwheelchair">
 
     <p>Give someone the freedom of mobility by donating a wheelchair today!</p>
