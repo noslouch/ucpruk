@@ -3,8 +3,7 @@
   <div class="grid_24">
     <div class="navigation">
       <ul>
-        <li>Copyright &copy; <?php echo date("Y") ?> <?php echo get_bloginfo('name'); ?> 
-          <?php bloginfo('description'); ?> - All Rights Reserved
+        <li>Copyright &copy; <?php echo date("Y") ?> <?php bloginfo('description'); ?> - All Rights Reserved
           </li>
       </ul>
       <!-- 
