@@ -7,16 +7,9 @@
  */
 
 /** WordPress Administration Bootstrap */
-require_once('./admin.php');
+require_once( dirname( __FILE__ ) . '/admin.php' );
 
-if ( is_multisite() ) {
-	$menu_perms = get_site_option( 'menu_items', array() );
-
-	if ( empty( $menu_perms['plugins'] ) && ! current_user_can( 'manage_network_plugins' ) )
-		wp_die( __( 'Cheatin&#8217; uh?' ) );
-}
-
-if ( !current_user_can('activate_plugins') )
+if ( ! current_user_can('activate_plugins') )
 	wp_die( __( 'You do not have sufficient permissions to manage plugins for this site.' ) );
 
 $wp_list_table = _get_list_table('WP_Plugins_List_Table');
@@ -37,6 +30,11 @@ if ( $action ) {
 			if ( ! current_user_can('activate_plugins') )
 				wp_die(__('You do not have sufficient permissions to activate plugins for this site.'));
 
+			if ( is_multisite() && ! is_network_admin() && is_network_only_plugin( $plugin ) ) {
+				wp_redirect( self_admin_url("plugins.php?plugin_status=$status&paged=$page&s=$s") );
+				exit;
+			}
+
 			check_admin_referer('activate-plugin_' . $plugin);
 
 			$result = activate_plugin($plugin, self_admin_url('plugins.php?error=true&plugin=' . $plugin), is_network_admin() );
@@ -51,11 +49,6 @@ if ( $action ) {
 			}
 
 			if ( ! is_network_admin() ) {
-				if ( is_network_only_plugin( $plugin ) ) {
-					wp_redirect( self_admin_url("plugins.php?plugin_status=$status&paged=$page&s=$s") );
-					exit;
-				}
-
 				$recent = (array) get_option( 'recently_activated' );
 				unset( $recent[ $plugin ] );
 				update_option( 'recently_activated', $recent );
@@ -347,7 +340,7 @@ get_current_screen()->add_help_tab( array(
 'title'		=> __('Overview'),
 'content'	=>
 	'<p>' . __('Plugins extend and expand the functionality of WordPress. Once a plugin is installed, you may activate it or deactivate it here.') . '</p>' .
-	'<p>' . sprintf(__('You can find additional plugins for your site by using the <a href="%1$s">Plugin Browser/Installer</a> functionality or by browsing the <a href="%2$s" target="_blank">WordPress Plugin Directory</a> directly and installing new plugins manually. To manually install a plugin you generally just need to upload the plugin file into your <code>/wp-content/plugins</code> directory. Once a plugin has been installed, you can activate it here.'), 'plugin-install.php', 'http://wordpress.org/extend/plugins/') . '</p>'
+	'<p>' . sprintf(__('You can find additional plugins for your site by using the <a href="%1$s">Plugin Browser/Installer</a> functionality or by browsing the <a href="%2$s" target="_blank">WordPress Plugin Directory</a> directly and installing new plugins manually. To manually install a plugin you generally just need to upload the plugin file into your <code>/wp-content/plugins</code> directory. Once a plugin has been installed, you can activate it here.'), 'plugin-install.php', 'http://wordpress.org/plugins/') . '</p>'
 ) );
 get_current_screen()->add_help_tab( array(
 'id'		=> 'compatibility-problems',
