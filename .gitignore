@@ -13,3 +13,4 @@ wp-content/backups/
 sitemap.xml.gz
 *~
 *.swp
+wp-content/plugins/ajax-event-calendar/css/cat_colors.css
